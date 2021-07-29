@@ -58,7 +58,7 @@ def takeCommand():
     return query
 
 if __name__ == "__main__":
-    wishme("Sir")
+    wishme("Bro")
     #myWindow()
     while True:
         query=takeCommand().lower()
